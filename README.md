@@ -1,7 +1,7 @@
 # Infrastructure Mapping and Monitoring in Deserts with Sentinel-1
 This project implements a methodology for infrastructure mapping and monitoring in desert regions using Sentinel-1 SAR data. The methodology consists of the following steps:
 
-1) Extract a time series of 6 consecutively acquired Sentinel-1 GRD images over an area of interest. Here the data is obtained through Creodias, and the area of interest is the North Sinai Desert 
+1) Extract a time series of 6 consecutively acquired Sentinel-1 GRD images over an area of interest. Here the data is obtained through Creodias. The areas of interest can be found in AOI folder 
 
 (see AOI folder)
 

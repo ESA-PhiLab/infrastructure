@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SonoranDesertMexico.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>SonoranDesertMexico</name>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-114.4398937538268,32.68215479367242,0 -114.5595658360489,32.61535995751508,0 -114.5803763474057,32.53759368227676,0 -114.5646228614094,32.49782640140683,0 -114.7029977390694,32.53949084283995,0 -114.7874693449803,32.47616878304604,0 -114.8714889009347,32.35145211086332,0 -114.901087497741,32.27151906168079,0 -114.9427409186903,32.1135277160478,0 -114.740813825005,31.94077430607737,0 -114.5755694056958,31.75935127261595,0 -114.4537564654607,31.65503324520374,0 -114.1513824915273,31.49528909022568,0 -114.0252473742346,31.49317656157464,0 -113.9773324065418,31.69213674606385,0 -113.8211589214813,31.60786416492831,0 -113.6406920263843,31.50022608013543,0 -113.5987016070191,31.33103920364322,0 -113.2830096024898,31.27002103826372,0 -113.0493942726945,31.1930762237061,0 -112.845317791905,31.4650582489364,0 -112.9267185101887,31.74965522905561,0 -113.2143953042276,31.89471129117495,0 -113.2636068850409,31.78082816829987,0 -113.3809016176922,31.62572274682886,0 -113.4674835315506,31.50914530427561,0 -113.5208964371293,31.64376936536045,0 -113.6360714031075,31.68450926364767,0 -113.7299302104409,31.77230907311144,0 -113.7373714999883,31.89265964949986,0 -113.5452192285055,32.04082094170735,0 -113.6480559680798,32.05702243762584,0 -113.7383470811501,32.04466115518731,0 -113.9257791722194,32.06796988324074,0 -114.098452992087,32.19842282898792,0 -114.2611887047426,32.44429972678306,0 -114.4398937538268,32.68215479367242,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
