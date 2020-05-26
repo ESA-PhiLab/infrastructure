@@ -1,4 +1,6 @@
-roadsPolCoh.ipynb: Jupyter Notebook with the U-Net segmentation workflow. It takes VV and VH Sigma0 and coherence as input
+This page contains the Jupyter Notebook of the Deep Learning workflow, and the trained U-Net segmentation models.
+
+* roadsPolCoh.ipynb: Jupyter Notebook with the U-Net segmentation workflow. It takes VV and VH Sigma0 and coherence as input
 
 roads.ipynb: Jupyter Notebook with the U-Net segmentation workflow. It takes VV Sigma0 as input
 
